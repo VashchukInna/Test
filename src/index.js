@@ -131,7 +131,7 @@ function showResults() {
             numCorrect++;
 
             // color the answers green
-            answerContainers[questionNumber].style.color = 'lightgreen';
+            answerContainers[questionNumber].style.color = 'green';
         } else {
             // if answer is wrong or blank
             // color the answers red
