@@ -74,6 +74,61 @@ const myQuestions = [
         correctAnswer: ['d'],
         typeOfQuestion: 'radio'
     },
+    {
+        question: 'Which is the correct way to write a JavaScript array?',
+        answers: {
+            a: 'var txt = new Array(1:"arr",2:"kim",3:"jim")',
+            b: 'var txt = new Array:1=(" arr ")2=("kim")3=("jim")',
+            c: 'var txt = new Array("arr ","kim","jim")',
+            d: 'var txt = new Array=" arr ","kim","jim"'
+        },
+        correctAnswer: ['c'],
+        typeOfQuestion: 'radio'
+    },
+    {
+        question: 'How does JavaScript store dates in objects of Date type?',
+        answers: {
+            a: 'The number of days since January 1st, 1900',
+            b: 'The number of seconds since January 1st, 1970',
+            c: 'The number of milliseconds since January 1st, 1970',
+            d: 'The number of picoseconds since January 1st, 1970"'
+        },
+        correctAnswer: ['c'],
+        typeOfQuestion: 'radio'
+    },
+    {
+        question: 'Which of the following statements are false for JavaScript?',
+        answers: {
+            a: 'Variable names are not case sensitive',
+            b: 'Variable names must begin with a letter or the underscore character',
+            c: 'Var is used to declare a variable',
+            d: 'Both b and c above'
+        },
+        correctAnswer: ['a'],
+        typeOfQuestion: 'radio'
+    },
+    {
+        question: 'Which of the following is the tainted property of a window object in JavaScript?',
+        answers: {
+            a: 'Pathname',
+            b: 'Protocol',
+            c: 'Defaultstatus',
+            d: 'Host'
+        },
+        correctAnswer: ['c'],
+        typeOfQuestion: 'radio'
+    },
+    {
+        question: 'What type of image maps could be used with JavaScript?',
+        answers: {
+            a: 'Client-side image maps',
+            b: 'Server-side image maps',
+            c: 'Both A and B',
+            d: 'Localhost image maps'
+        },
+        correctAnswer: ['a'],
+        typeOfQuestion: 'radio'
+    }
 ];
 
 function buildQuiz() {
