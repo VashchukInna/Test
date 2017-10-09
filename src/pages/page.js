@@ -1,5 +1,6 @@
 'use strict';
 
+const TEST_USER_NAME = 'testUsername';
 class Page {
     constructor(url = '', content = '') {
         this.url = url;

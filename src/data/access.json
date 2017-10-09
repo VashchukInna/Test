@@ -4,6 +4,10 @@
     "accessByExecutants": "adminAndUser"
   },
   {
+    "path": "#/test",
+    "accessByExecutants": "adminAndUser"
+  },
+  {
     "path": "#/admin",
     "accessByExecutants": [
       "admin"

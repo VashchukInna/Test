@@ -2,12 +2,14 @@
 
 import {find} from 'lodash';
 import homePage from './pages/home/home.page';
+import testPage from './pages/test/test.page.js';
 import loginPage from './pages/login/login.page';
 import adminPage from './pages/admin/admin.page';
 import authorization from './authorization';
 
 let pages = [
     homePage,
+    testPage,
     loginPage,
     adminPage
 ];
