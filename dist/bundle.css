@@ -1,11 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);#user-menu {
   width: 100%;
+  height: 23px;
   background: black;
   padding: 10px 10px 10px 80px;
   margin-top: -8px;
   margin-left: -8px; }
 
 #user-menu li {
+  float: left;
   display: inline-block; }
 
 #user-menu li a {
@@ -21,12 +23,6 @@
 
 .text {
   text-align: center; }
-
-#admin-block {
-  margin: auto;
-  width: 50%;
-  border: 3px solid #008068;
-  padding: 10px; }
 
 .main-text {
   position: absolute;
@@ -95,7 +91,7 @@ body {
   color: #333;
   font-weight: 300;
   text-align: center;
-  background-color: rgba(174, 195, 193, 0.43); }
+  background-color: rgba(117, 114, 114, 0.19); }
 
 h1 {
   font-weight: 300;
@@ -158,7 +154,7 @@ button:hover {
   margin-top: 40px; }
 
 #loginForm {
-  border: 3px solid #f1f1f1;
+  border: 3px solid rgba(74, 88, 84, 0.45);
   width: 40%;
   margin: auto;
   padding: 16px; }
@@ -186,6 +182,20 @@ input[type=text], input[type=password] {
 #unauthorized-user {
   text-align: center;
   padding: 10px;
-  font-size: 135%; }
+  font-size: 101%; }
+
+#admin-block {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #008068;
+  padding: 10px; }
+
+.text-list-user {
+  text-align: center; }
+
+#listOfUsers {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto; }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJidW5kbGUuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
