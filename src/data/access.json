@@ -1,0 +1,25 @@
+[
+  {
+    "path": "#/",
+    "accessByExecutants": "adminAndUser"
+  },
+  {
+    "path": "#/admin",
+    "accessByExecutants": [
+      "admin"
+    ]
+  },
+  {
+    "path": "#/login",
+    "accessByExecutants": [
+      "unauthorized"
+    ]
+  },
+  {
+    "path": "#/logout",
+    "accessByExecutants": [
+      "admin",
+      "user"
+    ]
+  }
+]

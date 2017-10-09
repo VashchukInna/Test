@@ -1,0 +1,102 @@
+[
+  {
+    "username": "Inna",
+    "password": "123",
+    "executant": "admin"
+  },
+  {
+    "username": "Laura",
+    "password": "345",
+    "executant": "user"
+  },
+  {
+    "username": "Mary",
+    "password": "567",
+    "executant": "admin"
+  },
+  {
+    "username": "Linda",
+    "password": "789",
+    "executant": "user"
+  },
+  {
+    "username": "Thomas",
+    "password": "111",
+    "executant": "user"
+  },
+  {
+    "username": "Ronald",
+    "password": "222",
+    "executant": "user"
+  },
+  {
+    "username": "Gary",
+    "password": "333",
+    "executant": "user"
+  },
+  {
+    "username": "Stephen",
+    "password": "444",
+    "executant": "admin"
+  },
+  {
+    "username": "Eric",
+    "password": "555",
+    "executant": "user"
+  },
+  {
+    "username": "Frances",
+    "password": "666",
+    "executant": "user"
+  },
+  {
+    "username": "Betty",
+    "password": "777",
+    "executant": "user"
+  },
+  {
+    "username": "Karen",
+    "password": "888",
+    "executant": "user"
+  },
+  {
+    "username": "Donna",
+    "password": "999",
+    "executant": "user"
+  },
+  {
+    "username": "Michelle",
+    "password": "111",
+    "executant": "user"
+  },
+  {
+    "username": "Sharon",
+    "password": "222",
+    "executant": "user"
+  },
+  {
+    "username": "Andrea",
+    "password": "333",
+    "executant": "admin"
+  },
+  {
+    "username": "Anne",
+    "password": "444",
+    "executant": "user"
+  },
+  {
+    "username": "Emily",
+    "password": "555",
+    "executant": "user"
+  },
+  {
+    "username": "Ryan",
+    "password": "666",
+    "executant": "admin"
+  },
+  {
+    "username": "Ricky",
+    "password": "777",
+    "executant": "user"
+  }
+]
